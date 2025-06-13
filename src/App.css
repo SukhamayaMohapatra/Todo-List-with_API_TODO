@@ -1,0 +1,24 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #282c34;
+}
+
+.list-items{
+   border-radius: 50px;
+  margin: 10px 0;
+  background-color: #5dadf8;
+  padding: 10px 20px;
+  display: flex;
+  width: 450px;
+  align-items: center;
+  margin-top: 10px;
+  text-align: center;
+}
+button{
+border-radius: 10px;
+width: 130px;
+height: 45px;
+}
